@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+    body {
+      text-align: center;
+      font-family: "Roboto", sans-serif;
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+    }
+
+    #propic {
+      height: 300px;
+      margin-top: 15px;
+    }
+
+    #list {
+      max-width: 300px;
+      margin: auto;
+    }
+
+    li {
+      text-align: left;
+    }
+
+    table {
+      margin: auto;
+      margin-bottom: 20px;
+      border-radius: 4px;
+    }
+
+    th,
+    td {
+      padding: 2px 3px;
+      border-radius: 4px;
+    }
+
+    table,
+    td {
+      border: 1px solid #333;
+    }
+
+    thead,
+    tfoot {
+      background-color: #333;
+      color: #fff;
+    }
+
+    #github-icon {
+      display: block;
+      margin: 5px auto;
+    }
+
+    #footer {
+      font-size: 12px;
+    }
